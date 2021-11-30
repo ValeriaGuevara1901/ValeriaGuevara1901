@@ -1,4 +1,4 @@
-## Sou a Valeria Alexandra Guevara Parra, criadora de códigos de programação iniciante e entusiasta da tecnologia!
+## Sou a Valeria, criadora de códigos de programação iniciante e entusiasta da tecnologia!
 ##
 ✨Olá meu nome é Valeria Alexandra (nome forte para pessoas fortes)sou estudante do curso de Ciências Da Computação👩‍💻, estou cursando o 5ºsemestre na Universidade Federal de Roraima;
 
