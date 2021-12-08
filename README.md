@@ -5,7 +5,7 @@
 
 🙋‍♀️Sou uma pessoa bem realista quase sempre estou vendo o lado positivo da vida, falo português e espanhol(nativamente), três palavras que me caracterizam é FOCO, RESILIÊNCIA E PERSISTÊNCIA, ninguem nunca disse que o caminho iria ser fácil mas estamos aqui, firmes e fortes com altos e baixo mas continuamos aqui lutando um sonho;
 
-💖Estou estudando atualmente (e surtando com isso ) Java,C e mips esta sendo um desafio paralelo a isso estou trablhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da area da tecnologia, pode ser que não saiba tudo mas aprendo com facilidade e não desisto das coisas fácilmente, sou entusiaste deste hermoso curso qu me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição de criatividade.
+💖Estou estudando atualmente (e surtando com isso ) Java,C e mips esta sendo um desafio paralelo a isso, estou trablhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da area da tecnologia, pode ser que não saiba tudo mas aprendo com facilidade e não desisto dos desafios fácilmente, sou entusiaste deste hermoso curso que me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição para implementar dependendo do tamanho da sua criatividade.
 ##
 
 <div align="center">
@@ -18,9 +18,9 @@
   <h3> &nbsp;Tools 🛠 </h3>
 
 - &nbsp;
-    💥![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    💥![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-    💥![sublime tex](https://img.shields.io/badge/-sublimetext-333333?style=flat&logo=sublimetext-ide&logoColor=2C2255)
+   ⚜![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+   ⚜![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+   ⚜![sublime tex](https://img.shields.io/badge/-sublimetext-333333?style=flat&logo=sublimetext-ide&logoColor=2C2255)
  ##
   
 <div> 
