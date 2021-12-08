@@ -1,5 +1,5 @@
    
-<h2 align="center">Olá sou a Valeria, criadora de códigos de programação iniciante e entusiasta da tecnologia!</h2>
+<h2 align="center">Olá sou Valeria, criadora de códigos de programação iniciante e entusiasta da tecnologia!</h2>
 
 ✨Olá meu nome é Valeria Alexandra (nome forte para pessoas fortes)sou estudante do curso de Ciências Da Computação👩‍💻, estou cursando o 5ºsemestre na Universidade Federal de Roraima;
 
