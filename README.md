@@ -1,11 +1,11 @@
    
 <h2 align="center">Olá sou Valeria, criadora de códigos de programação iniciante e entusiasta da tecnologia!</h2>
 
-✨Olá meu nome é Valeria Alexandra,sou estudante do curso de Ciências Da Computação👩‍💻, estou cursando o 5ºsemestre na Universidade Federal de Roraima;
+✨Olá meu nome é Valeria Alexandra,sou estudante do curso de Ciências Da Computação👩‍💻, estou cursando o 6ºsemestre na Universidade Federal de Roraima;
 
-🙋‍♀️Sou uma pessoa bem realista quase sempre estou vendo o lado positivo da vida, falo português e espanhol(nativamente), três palavras que me caracterizam é FOCO, RESILIÊNCIA E PERSISTÊNCIA, ninguem nunca disse que o caminho iria ser fácil mas estamos aqui, firmes e fortes com altos e baixo mas continuamos aqui lutando um sonho;
+🙋‍♀️Sou uma pessoa bem realista quase sempre estou vendo o lado positivo da vida, falo português e espanhol(nativamente), três palavras que me caracterizam é RESILIÊNCIA E PERSISTÊNCIA, ninguem nunca disse que o caminho iria ser fácil mas estamos aqui, firmes e fortes com altos e baixo mas continuamos aqui lutando um sonho;
 
-💖Estou estudando atualmente (e surtando com isso ) Java,C e mips esta sendo um desafio paralelo a isso, estou trabalhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da area da tecnologia, pode ser que não saiba tudo mas aprendo e não desisto dos desafios fácilmente, sou entusiaste deste hermoso curso que me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição para implementar dependendo do tamanho da sua criatividade.
+💖Estou estudando atualmente (e surtando com isso ) Java,C e mips esta sendo um desafio paralelo a isso, estou trabalhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da área da tecnologia, pode ser que não saiba tudo mas aprendo e não desisto dos desafios fácilmente, sou entusiaste deste hermoso curso que me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição para implementar dependendo do tamanho da sua criatividade.
 ##
 
 <div align="center">
