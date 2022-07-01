@@ -5,7 +5,7 @@
 
 🙋‍♀️Sou uma pessoa bem realista quase sempre estou vendo o lado positivo da vida, falo português e espanhol(nativamente), três palavras que me caracterizam é RESILIÊNCIA E PERSISTÊNCIA, ninguem nunca disse que o caminho iria ser fácil mas estamos aqui, firmes e fortes com altos e baixo mas continuamos aqui lutando um sonho;
 
-💖Estou estudando atualmente (e surtando com isso ) Java,C e mips esta sendo um desafio paralelo a isso, estou trabalhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da área da tecnologia, pode ser que não saiba tudo mas aprendo e não desisto dos desafios fácilmente, sou entusiaste deste hermoso curso que me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição para implementar dependendo do tamanho da sua criatividade.
+💖Estou estudando atualmente (e surtando com isso ) no curso de desenvolvimento Fullstack no DEVINHOUSE fornecido pelo Senai em floripa esta sendo um desafio paralelo a isso, estou trabalhando como auxiliar de escritorio numa imobiliaria mas procuro oportunidades da área da tecnologia, pode ser que não saiba tudo mas aprendo e não desisto dos desafios fácilmente, sou entusiaste deste hermoso curso que me apaixona e o mais lindo é criar e saber que  programação é um mundo sem esteriotipos, sem restrição para implementar dependendo do tamanho da sua criatividade.
 ##
 
 <div align="center">
