@@ -1,7 +1,7 @@
    
 <h2 align="center">Olá sou Valeria, criadora de códigos de programação iniciante e entusiasta da tecnologia!</h2>
 
-✨Olá meu nome é Valeria Alexandra,sou estudante do curso de Ciências Da Computação👩‍💻, estou cursando o 6ºsemestre na Universidade Federal de Roraima;
+✨Olá meu nome é Valeria Alexandra,sou estudante do curso de Ciências Da Computação👩‍💻 na UNB;
 
 🙋‍♀️Sou uma pessoa bem realista quase sempre estou vendo o lado positivo da vida, falo português e espanhol(nativamente),as palavras que me caracterizam é RESILIÊNCIA E PERSISTÊNCIA, ninguem nunca disse que o caminho iria ser fácil mas estamos aqui, firmes e fortes com altos e baixo mas continuamos aqui lutando um sonho;
 
